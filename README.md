@@ -47,6 +47,14 @@ Umi は React Application Framework、Ant Design は UI Component Library とし
 
 [Repository](https://github.com/shangkejin2002/digital-finance-household-consumption-analysis)
 
+### 3. [User Management System](https://github.com/shangkejin2002/user-management-system)
+
+Java / Spring Boot と React / TypeScript を用いて開発したユーザー管理システムです。ユーザー登録、Session によるログイン認証、管理者向けのユーザー検索・論理削除を実装し、認証・権限管理とフロントエンド・バックエンドの連携を学びました。
+
+**Tech:** React / TypeScript / Umi / Ant Design · Java / Spring Boot / MyBatis-Plus · H2 / MySQL
+
+[Repository](https://github.com/shangkejin2002/user-management-system)
+
 ## Education & Self-Directed Learning
 
 ### 京都大学大学院 経済学研究科
