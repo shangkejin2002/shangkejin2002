@@ -4,7 +4,7 @@
 
 京都大学大学院 経済学研究科で、経済学とデータ分析を学んでいます。経済学の学習と並行して Software Engineering を独学し、フロントエンド、バックエンド、データベース、AI API を組み合わせた Web Application の開発に取り組んできました。
 
-学んだ技術を実際のプロダクトに落とし込むことを大切にしています。現在は、写真のメタデータ管理と AI による画像理解を統合した Web Application を開発・公開しています。今後は Backend Development および Full-Stack Web Development を中心に、データを活用するシステムの開発に携わりたいと考えています。
+学んだ技術を実際のプロダクトに落とし込むことを大切にしています。現在は、写真のメタデータ管理と AI による画像理解を統合した Web Application を開発・公開しています。今後はAI-Integrated Applications および Full-Stack Web Development を中心に、データを活用するシステムの開発に携わりたいと考えています。
 
 ## Tech Stack
 
